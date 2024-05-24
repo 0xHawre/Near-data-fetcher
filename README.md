@@ -24,7 +24,8 @@ Clone the Repository:
 
 ```bash
 git clone https://github.com/Hafxhak/Near-data-fetcher
-cd near-rpc-data-fetcher
+cd Near-data-fetcher
+
 ```
 Edit the Script:
 Open the script in a text editor:
