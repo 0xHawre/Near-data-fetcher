@@ -31,7 +31,7 @@ Edit the Script:
 Open the script in a text editor:
 
 ```bash
-nano ETH.py
+nano  near.py
 ```
 Replace the placeholder URLs in the urls list with your own NEAR RPC endpoint URLs. Example: first main-net then test-net
 ```python
